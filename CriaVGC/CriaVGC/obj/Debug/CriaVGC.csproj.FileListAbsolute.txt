@@ -1,0 +1,10 @@
+C:\Users\gustavo.lima\source\repos\CriaVGC\CriaVGC\bin\Debug\CriaVGC.exe.config
+C:\Users\gustavo.lima\source\repos\CriaVGC\CriaVGC\bin\Debug\CriaVGC.exe
+C:\Users\gustavo.lima\source\repos\CriaVGC\CriaVGC\bin\Debug\CriaVGC.pdb
+C:\Users\gustavo.lima\source\repos\CriaVGC\CriaVGC\obj\Debug\CriaVGC.csproj.AssemblyReference.cache
+C:\Users\gustavo.lima\source\repos\CriaVGC\CriaVGC\obj\Debug\CriaVGC.Form1.resources
+C:\Users\gustavo.lima\source\repos\CriaVGC\CriaVGC\obj\Debug\CriaVGC.Properties.Resources.resources
+C:\Users\gustavo.lima\source\repos\CriaVGC\CriaVGC\obj\Debug\CriaVGC.csproj.GenerateResource.cache
+C:\Users\gustavo.lima\source\repos\CriaVGC\CriaVGC\obj\Debug\CriaVGC.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.lima\source\repos\CriaVGC\CriaVGC\obj\Debug\CriaVGC.exe
+C:\Users\gustavo.lima\source\repos\CriaVGC\CriaVGC\obj\Debug\CriaVGC.pdb
